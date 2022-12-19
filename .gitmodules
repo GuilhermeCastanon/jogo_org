@@ -1,0 +1,3 @@
+[submodule "modules/ICMC-Processor-Sim-Installer"]
+	path = modules/ICMC-Processor-Sim-Installer
+	url = git@github.com:cirillom/ICMC-Processor-Sim-Installer.git
